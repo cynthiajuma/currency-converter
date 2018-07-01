@@ -1,0 +1,19 @@
+html{
+	background-color: #101e5b;
+	font-family: 'Open Sans',sans-serif;
+}
+
+body{
+	color: white;
+	width: 1000px;
+	height: 1000px;
+	font-weight: bold;
+	line-height: 50px;
+	text-align: center;
+}
+
+.h1{
+font-size: 40px;
+text-transform: uppercase; 
+
+}
